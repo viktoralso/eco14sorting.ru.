@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd%22%3E
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<!-- Я использовал онлайн генератор (можно видеть сверху) для проверки, ибо у нас лендинг, а лендинге особо не нужен sitemap -->
+
+<url>
+  <loc>https://julurbek.github.io/eco14sorting/</loc>
+  <lastmod>2020-11-05T07:31:24+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+
+
+</urlset>
